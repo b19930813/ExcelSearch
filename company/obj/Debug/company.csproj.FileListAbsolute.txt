@@ -1,0 +1,15 @@
+D:\Frank\program\company\company\bin\Debug\company.exe.config
+D:\Frank\program\company\company\bin\Debug\company.exe
+D:\Frank\program\company\company\bin\Debug\company.pdb
+D:\Frank\program\company\company\bin\Debug\ExcelDataReader.DataSet.dll
+D:\Frank\program\company\company\bin\Debug\ExcelDataReader.dll
+D:\Frank\program\company\company\bin\Debug\ExcelDataReader.pdb
+D:\Frank\program\company\company\bin\Debug\ExcelDataReader.xml
+D:\Frank\program\company\company\bin\Debug\ExcelDataReader.DataSet.pdb
+D:\Frank\program\company\company\bin\Debug\ExcelDataReader.DataSet.xml
+D:\Frank\program\company\company\obj\Debug\company.csprojResolveAssemblyReference.cache
+D:\Frank\program\company\company\obj\Debug\company.Form1.resources
+D:\Frank\program\company\company\obj\Debug\company.Properties.Resources.resources
+D:\Frank\program\company\company\obj\Debug\company.csproj.GenerateResource.Cache
+D:\Frank\program\company\company\obj\Debug\company.exe
+D:\Frank\program\company\company\obj\Debug\company.pdb
